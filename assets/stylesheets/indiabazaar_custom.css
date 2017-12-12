@@ -17,4 +17,7 @@
 	#hd .header-menu .navbar .navbar-nav>li:hover{
 		background-color: #f7f5ee;
 	}
+	#product-detail-page #add-cart #cart .add-to-cart:focus {
+		outline: none;
+	}
 }
