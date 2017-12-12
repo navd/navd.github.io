@@ -1,0 +1,17 @@
+@media only screen{
+	.hide-temporary{
+		display: none!important;
+	}
+	#variant_quantity{
+		display: none !important;
+	}
+	#product-detail-page #add-cart #cart .add-to-cart{
+		margin-left: 20px !important;
+	}
+	#ft-wrap  .footer-links .col-md-3{
+		margin-top: 20px !important;
+	}
+	bottom-aligned-row-modified{
+		margin-top: 30px !important
+	}
+}
